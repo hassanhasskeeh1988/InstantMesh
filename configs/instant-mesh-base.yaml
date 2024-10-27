@@ -20,3 +20,4 @@ infer_config:
   model_path: ckpts/instant_mesh_base.ckpt
   texture_resolution: 1024
   render_resolution: 512
+  
